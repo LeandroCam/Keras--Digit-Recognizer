@@ -48,6 +48,10 @@ print(train_df.shape)
 print(test.shape)
 
 
+![data](https://user-images.githubusercontent.com/83521233/124021752-4d60bb80-d9c2-11eb-9a2a-9c800541c8ad.png)
+
+![Distribution](https://user-images.githubusercontent.com/83521233/124021738-489c0780-d9c2-11eb-9c45-8bf9ee44f0fa.png)
+
 
 ```
 
@@ -81,7 +85,7 @@ plt.show()
 
 
 ```python
-numeros
+![Numbers](https://user-images.githubusercontent.com/83521233/124021839-6bc6b700-d9c2-11eb-8aba-2a710d775fc8.png)
 ```
 
 We'll construct a simple neural network, with one hidden layer and 10 outputs. We don't will split the training data set, we'll train our model with all the data we have and test him with the test data set submiting him in kaggle.
@@ -171,6 +175,8 @@ plt.show()
 
 
 ```
+![CM](https://user-images.githubusercontent.com/83521233/124022337-0c1cdb80-d9c3-11eb-8c0a-a36bbc0623a0.png)
+
 
 Now we label our  data set with our predicted results
 
