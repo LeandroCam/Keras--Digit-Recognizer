@@ -7,10 +7,6 @@ It is not our goal to develop and optimize the ranking model. The example has a 
 We start analysing the data.
 
 
-```python
-
-```
-
 
 ```python
 import pandas as pd
