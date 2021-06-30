@@ -167,7 +167,7 @@ plt.show()
 
 ```
 
-https://user-images.githubusercontent.com/83521233/124022337-0c1cdb80-d9c3-11eb-8c0a-a36bbc0623a0.png
+![cm](https://user-images.githubusercontent.com/83521233/124022337-0c1cdb80-d9c3-11eb-8c0a-a36bbc0623a0.png)
 
 Now we label our test dataset with our predicted results
 
